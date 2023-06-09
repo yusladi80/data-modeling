@@ -5,4 +5,4 @@ This repository is dedicated to showcasing a comprehensive and optimized data mo
 This repository presents a well-structured data model that captures the essential entities and relationships required for an e-commerce platform. It focuses on optimizing database performance, ensuring data integrity, and providing a seamless user experience.
 The data model encompasses entities such as products, customers, orders, payments, and inventory, capturing their relationships and interactions.
 
-I hope this repository serves as a valuable resource for designing a robust data model for your e-commerce website. Happy modeling!
+I hope this repository serves as a valuable resource. Happy modeling!
