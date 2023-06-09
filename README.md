@@ -3,10 +3,10 @@
 Welcome to the Data Modeling Repository! This repository is dedicated to showcasing a comprehensive and optimized data model specifically designed for a fictional e-commerce website. It aims to provide a solid foundation for database design, data organization, and system optimization in the context of an e-commerce platform.
 
 Table of Contents
-Introduction
-Features
-Getting Started
-Contributing
+#Introduction
+#Features
+#Getting Started
+#Contributing
 
 
 Introduction
